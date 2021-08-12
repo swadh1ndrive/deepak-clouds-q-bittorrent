@@ -1,12 +1,12 @@
 [![Slam](https://imagetot.com/images/2021/08/12/db8b0df9f095edd18afca817e03a6586.jpg)]
 
-# Deepak Clouds Q-bittorrent Mirror
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-tg-mirror-bot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-tg-mirror-bot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-tg-mirror-bot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-tg-mirror-bot)
-![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
-[![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/SlamMirrorUpdates)
+# Deepak Clouds Q bittorrent Mirror
+![GitHub Repo stars](https://img.shields.io/github/stars/deepakcloudsoffical/deepak-clouds-q-bittorrent?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/breakdowns/deepakcloudsoffical/deepak-clouds-q-bittorrent?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/deepakcloudsoffical/deepak-clouds-q-bittorrent?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/deepakcloudsoffical/deepak-clouds-q-bittorrent)
+![Docker Pulls](https://img.shields.io/docker/pulls/deepakcloudsoffical/mega-sdk-python?label=Docker%20Pull)
+[![Channel](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/cloudsmirror)
 
 ** Deepak Clouds Q-bittorrent Mirror** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
